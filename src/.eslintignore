@@ -1,0 +1,12 @@
+/config
+/scripts
+/cypress
+/develops
+/unused
+/nginx
+** /*.test.js
+**/*.test.jsx
+** /*.test.tsx
+**/*.spec.js
+** /*.spec.jsx
+**/*.spec.tsx
