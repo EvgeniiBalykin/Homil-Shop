@@ -1,0 +1,13 @@
+.nav-bar {
+  background-image: url('../../../public/bgNav.jpg');
+  background-color: rgba(0, 0, 0, 0.5);
+  background-size: cover;
+  background-position-y:-35%;
+  background-color: black;
+  padding: 0 50px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 50px;
+  height: 150px;
+}
